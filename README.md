@@ -1,7 +1,5 @@
-# selfhosted
+# My Self-hosted Services
 
-My self-hosted services. Each folder is a self-contained stack; not everything
-runs in Docker.
 
 | Service | Folder |
 | --- | --- |
