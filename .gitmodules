@@ -1,0 +1,3 @@
+[submodule "zotero-arxiv-daily"]
+	path = zotero-arxiv-daily
+	url = https://github.com/ytoso/zotero-arxiv-daily.git
