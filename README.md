@@ -3,5 +3,5 @@
 | Service | Folder |
 | --- | --- |
 | RSSHub + FreshRSS | [`rss/`](rss/README.md) |
-| Zotero arXiv Daily (submodule) | [`zotero-arxiv-daily/`](zotero-arxiv-daily/) |
+| Zotero arXiv Daily  | [`zotero-arxiv-daily/`](zotero-arxiv-daily/) |
 
