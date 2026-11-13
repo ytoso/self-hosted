@@ -1,0 +1,5 @@
+# Secrets
+.env
+
+# Local overrides
+docker-compose.override.yml
